@@ -2,7 +2,6 @@
 
 A cross-linguistic study comparing the structural properties of natural language dependency trees against randomly generated trees of equivalent size, to test whether human language exhibits systematic structural constraints.
 
-**Authors:** Himanshu Rana, Kamana Gupta, Neha Liladhar Bedke, Akshita Vinit Dixit
 
 ---
 
