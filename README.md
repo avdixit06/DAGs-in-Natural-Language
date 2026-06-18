@@ -176,6 +176,3 @@ python src/analysis.py
 9. Futrell, R. (2019). Information-theoretic locality properties of natural language. *NAACL*.
 10. Ferrer-i-Cancho, R. (2004). Euclidean distance between syntactically linked words. *Physical Review E*, 70(5), 056135.
 
-## License
-
-Specify your license here (e.g., MIT, Apache 2.0).# DAGs-in-Natural-Language
